@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Serayunews](https://github.com/Serayu-News)
 
-- 🌱 I’m currently learning **React Native & Rust**
+- 🌱 I’m currently learning **React Native & NestJS**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/)
 
